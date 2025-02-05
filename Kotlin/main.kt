@@ -5,8 +5,10 @@ fun main() {
     println("-------------------------------------------")
 
     // Declare variables
-    val name
-    val score1, score2, score3
+    var name = "";
+    var score1: Double = 0.0
+    var score2: Double = 0.0
+    var score3: Double = 0.0
 
     //Input
     print("Name: ")

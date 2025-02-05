@@ -1,5 +1,5 @@
 # Greetings
-puts 'Greetings, this is an average calculator for three test scores.'
+puts 'Greetings, this is an average calculator in Ruby for three test scores.'
 puts 'Please enter your name and three test scores.'
 puts '-------------------------------------------'
 
